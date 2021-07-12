@@ -94,8 +94,8 @@ public class Experiments {
     }
 
     public static void main(String[] args) {
-
+        experiment1();
         experiment2();
-
+        experiment3();
     }
 }
